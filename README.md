@@ -1,1 +1,8 @@
-# fukufukubiz.github.io
+# Q. How to access ?
+# A. https://fukufukubiz.github.io/
+
+
+
+#
+#
+#
