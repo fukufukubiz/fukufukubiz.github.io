@@ -69,7 +69,7 @@ Last Update : 2020/1
 - PHP,Laravel
 - Docker
 - Vue.js
-- Node.js
+- node.js
 - GCP
 - MS Azure
 
