@@ -68,6 +68,8 @@ Last Update : 2020/1
 - Ruby, Ruby on Rails
 - PHP,Laravel
 - Docker
+- Vue.js
+- Node.js
 - GCP
 - MS Azure
 
