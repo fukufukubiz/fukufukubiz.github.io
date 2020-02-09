@@ -11,9 +11,49 @@ Last Update : 2020/1
           (My cat.)
 ```
 
+## Personal
+
+- favorite
+  - 勉強好き
+  - ゲーム
+  - アニメ
+  - 雑誌
+    - 日経Linux、日経ソフトウェア
+
+- PC
+  - MacBook Pro 2019
+  - dynabook VZ72/B
+
+- Recommended books
+  - 独学プログラマーのためのAIアプリ開発がわかる本
+  - リーダブルコード
+  - 内部構造から学ぶPostgreSQL
+  - 退屈なことはPythonにやらせよう
+  - みんなのGo言語
+  - ゼロから作るDeepLearning
+
 ## Portfolio
 
 - 作成中
+
+## Carrer
+
+エンジニア歴:11年  
+Software Engineer : 11 years of experience
+
+- SI , SIer
+  - 大手メーカのエンジニア  
+    (Large Information Technology Services Company / Software Engineer)
+  - 11年間勤務  
+    (For 11 years)
+  - 新人教育経験
+  - 社内表彰経験
+  - 新規サービス立ち上げ経験
+- (Now) SES
+  - ベンチャーIT企業のエンジニア  
+    (IT venture corporation / System Engineering Service / Software Engineer)
+  - 現在在職  
+    (Employed)
 
 ## Skills
 
@@ -56,10 +96,13 @@ Last Update : 2020/1
   - Terraform
   - AWS
 - Other
-  - ウォータフォール開発がほとんど
+  - ウォータフォール開発経験がほとんど
+    - 要件定義
+    - 上流工程
+    - 下流工程
+    - 現場・リリース作業
+    - 商用対応
   - リーダ経験 5年
-  - 新人教育経験 3年
-  - 勉強好き
 
 勉強中・修得したいスキル  
 
@@ -72,19 +115,3 @@ Last Update : 2020/1
 - node.js
 - GCP
 - MS Azure
-
-## Carrer
-
-エンジニア歴:11年  
-Software Engineer : 11 years of experience
-
-- SI , SIer
-  - 大手メーカのエンジニア  
-    (Large Information Technology Services Company / Software Engineer)
-  - 11年間勤務  
-    (For 11 years)
-- (Now) SES
-  - ベンチャーIT企業のエンジニア  
-    (IT venture corporation / System Engineering Service / Software Engineer)
-  - 現在在職  
-    (Employed)
