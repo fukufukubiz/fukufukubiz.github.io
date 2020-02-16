@@ -1,6 +1,6 @@
 # Profile & Portfolio
 
-Last Update : 2020/1
+Last Update : 2020/2
 
 - Name : fukufuku
 
@@ -15,12 +15,17 @@ Last Update : 2020/1
 
 - favorite
   - 勉強好き
-  - ゲーム
-  - アニメ
-  - 雑誌
+    - 使用コンテンツ
+      - Udemy
+      - Youtube
+      - 書籍、雑誌類
+  - よく読む雑誌
     - 日経Linux、日経ソフトウェア
+  - ゲーム
+  - 漫画
+  - アニメ
 
-- PC
+- My PC
   - MacBook Pro 2019
   - dynabook VZ72/B
 
@@ -41,7 +46,7 @@ Last Update : 2020/1
 エンジニア歴:11年  
 Software Engineer : 11 years of experience
 
-- SI , SIer
+- SI , SIer (退職済み)(Quitted)
   - 大手メーカのエンジニア  
     (Large Information Technology Services Company / Software Engineer)
   - 11年間勤務  
@@ -49,11 +54,22 @@ Software Engineer : 11 years of experience
   - 新人教育経験
   - 社内表彰経験
   - 新規サービス立ち上げ経験
-- (Now) SES
+  - PMO、チームリーダ、プロジェクトリーダ経験
+  - 構成管理経験
+  - 見積〜受発注対応経験
+  - 品質管理経験
+  - ウォータフォール開発経験
+    - 要件定義
+    - 上流工程
+    - 下流工程
+    - 現地対応
+    - リリース対応
+    - 商用対応
+- SES (現職)(Employed)
   - ベンチャーIT企業のエンジニア  
-    (IT venture corporation / System Engineering Service / Software Engineer)
-  - 現在在職  
-    (Employed)
+    (IT Venture Corporation / System Engineering Service / Software Engineer)
+  - アジャイル開発経験
+    - スクラム
 
 ## Skills
 
@@ -80,29 +96,40 @@ Software Engineer : 11 years of experience
   - JavaScript
   - html / css
   - Python
-- Middleware,Software,Service
-  - Tomcat
-  - nginx
-  - PostgreSQL
-  - VMWare (ESXi / NSX-T / vRO)
-  - Pacemaker
-  - corosync
-  - svn
-  - Git / Github
-  - Ansible
-  - Zabbix
-  - UWSC
-  - CircleCI
-  - Terraform
-  - AWS
+  - Terraform (HCL)
+  - markdown
+- Usage experience
+  - OS
+    - Windows
+    - Linux
+      - CentOS
+      - RHEL
+      - Ubuntu
+    - macOS
+  - Middleware/oftware
+    - Tomcat
+    - nginx
+    - PostgreSQL
+    - Pacemaker
+    - corosync
+    - svn
+    - git
+    - Ansible
+    - Zabbix
+    - UWSC
+  - Product
+    - VMWare (ESXi / NSX-T / vRO)
+  - Service
+    - Slack
+    - Confluence
+    - Jira
+    - nulab
+    - CircleCI
+    - Github
+    - AWS
+    - GAS
+    - K5
 - Other
-  - ウォータフォール開発経験がほとんど
-    - 要件定義
-    - 上流工程
-    - 下流工程
-    - 現場・リリース作業
-    - 商用対応
-  - リーダ経験 5年
 
 勉強中・修得したいスキル  
 
